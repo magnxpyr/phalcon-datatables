@@ -27,7 +27,7 @@ This version contains community fixes and multi model search support
 ```json
 {
     "require": {
-        "magnxpyr/phalcon-datatables": "1.*"
+        "assadnazar/phalcon4-datatables": "dev-master"
     }
 }
 ```
